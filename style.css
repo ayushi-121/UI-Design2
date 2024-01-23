@@ -1,0 +1,44 @@
+body {
+    color: beige;
+    background-image:url(image1.jpg);
+}
+.border{
+    margin: 5% 15%;
+    padding: 4%;
+    border: 1px transparent beige;
+    background: transparent;
+    border-radius: 8px;  
+    box-shadow: 0 0 10px rgb(42, 42, 41); 
+}
+nav ul {
+    margin-left: 380px;
+}
+nav ul li {
+    text-decoration: none;
+    display: inline;
+    margin-left: 30px;
+}
+nav ul li a {
+    color: beige;
+    text-decoration: none;
+    padding:6px;
+    border: 1px solid beige;
+    border-radius: 2px;
+} 
+section {
+    font-size: xx-large;
+}
+section .lorem {
+    font-size: medium;
+    margin-top: -4%;
+}
+div .below { 
+    color: beige;
+    text-decoration: none;
+    margin-left: 85%;
+}
+div .below a { 
+    color: beige;
+    text-decoration: none;
+    font-size: x-large;
+}
